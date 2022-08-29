@@ -12,7 +12,7 @@ app.get('/data', (req, res, next) => {
     res.send([
         {
           id: 1,
-          name: "john"
+          name: "johny"
         },
         {
             id: 2,
