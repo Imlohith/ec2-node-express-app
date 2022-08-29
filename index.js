@@ -16,7 +16,7 @@ app.get('/data', (req, res, next) => {
         },
         {
             id: 2,
-            name: "smitch"
+            name: "smitchy"
         }
     ])
 })
