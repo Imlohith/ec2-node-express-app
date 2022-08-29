@@ -17,6 +17,10 @@ app.get('/data', (req, res, next) => {
         {
             id: 2,
             name: "smitchy"
+        },
+        {
+            id: 3,
+            name: "modi"
         }
     ])
 })
